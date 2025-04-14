@@ -1,3 +1,5 @@
+# Fine-Grained Fruit Categorization Utilizing Optimized YOLOv5 Inference on Extensively Annotated Image Sets.
+
 Folder Labeling == Fruit Folder
 
 Our folder labeling is still separate, let's combine it into one first.
